@@ -7,7 +7,7 @@ Studio is a [Tailwind UI](https://tailwindui.com) site template built using [Tai
 To get started with this template, first install the npm dependencies:
 
 ```bash
-npm install
+npm install # or use bun
 ```
 
 Next, run the development server:
