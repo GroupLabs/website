@@ -198,7 +198,7 @@ export default async function Home() {
       >
         The team at Studio went above and beyond with our onboarding, even
         finding a way to access the user’s microphone without triggering one of
-        those annoying permission dialogs.
+        those annoying permission dialogs
       </Testimonial>
 
       <Services />
